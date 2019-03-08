@@ -16,10 +16,10 @@ Generate a random password of a specified length
 positional arguments:
   length        Desired password length. If not specified, default is 12
 
-optional arguments:
-  -h, --help    show this help message and exit
-  --symbol, -s  Include all symbols in the password
-  --limit, -l   Limit symbols used to !@#$%&*
+optional arguments:\n
+  -h, --help    show this help message and exit\n
+  --symbol, -s  Include all symbols in the password\n
+  --limit, -l   Limit symbols used to !@#$%&*\n
 
 examples:
 
