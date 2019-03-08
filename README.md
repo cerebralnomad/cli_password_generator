@@ -42,9 +42,13 @@ examples:
 
 Some sites restrict the use of symbols. 
 The default does not include symbols. 
+
 The -s flag includes a larger list of symbols (!"#$%&\'()*+,-:;=?@[\]^_{}~)
+
 The -l flag includes a limited set of symbols (!@#$%*&) for increased acceptance to some sites.
 
-Use a unique password for every site and never reuse passwords. 
+
+Use a unique password for every site and never reuse passwords.
+
 Store them in a password manager such as KeePass, LastPass, or [Bitwarden](https://bitwarden.com/)
 
