@@ -4,8 +4,7 @@ Generate a random password of a specified length
 ## Installation
 
 Download newpass.py and put it in your PATH (~/bin for instance)  
-Recommend renaming to newpass for easier use on the command line
-
+Recommend renaming to newpass for easier use on the command line  
 Make it executable (chmod u+x newpass)
 
 ## Usage
@@ -49,7 +48,6 @@ The -s flag includes a larger list of symbols (!"#$%&\'()*+,-:;=?@[\]^_{}~)
 The -l flag includes a limited set of symbols (!@#$%*&) for increased acceptance to some sites.
 
 
-Use a unique password for every site and never reuse passwords.
-
+Use a unique password for every site and never reuse passwords.  
 Store them in a password manager such as KeePass, LastPass, or [Bitwarden](https://bitwarden.com/)
 
