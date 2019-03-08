@@ -16,10 +16,12 @@ Generate a random password of a specified length
 positional arguments:
   length        Desired password length. If not specified, default is 12
 
-optional arguments:\n
-  -h, --help    show this help message and exit\n
-  --symbol, -s  Include all symbols in the password\n
-  --limit, -l   Limit symbols used to !@#$%&*\n
+optional arguments:
+
+  -h, --help    show this help message and exit
+  
+  --symbol, -s  Include all symbols in the password
+  --limit, -l   Limit symbols used to !@#$%&*
 
 examples:
 
@@ -42,5 +44,5 @@ The -s flag includes a larger list of symbols (!"#$%&\'()*+,-:;=?@[\]^_{}~)
 The -l flag includes a limited set of symbols (!@#$%*&) for increased acceptance to some sites.
 
 Use a unique password for every site and never reuse passwords. 
-Store them in a password manager such as KeePass, LastPass, or Bitwarden
+Store them in a password manager such as KeePass, LastPass, or [Bitwarden](https://bitwarden.com/)
 
