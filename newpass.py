@@ -14,7 +14,7 @@ examples:
 
     newpass - generates a 12 character alphanumeric password
     newpass 20 - generates a 20 character alphanumeric password
-    newpass -s 25 - generates a 25 character password that includes all symbols
+    newpass -s 25 - generates a 25 character password that can include all symbols
     newpass -l 15 - generates a 15 character password that can include symbols !@#$%&*
 
     If both -s and -l flags are used (-sl, -ls) the -s takes 
