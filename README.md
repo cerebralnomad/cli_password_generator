@@ -5,6 +5,7 @@ Generate a random password of a specified length
 
 Download newpass.py and put it in your PATH (~/bin for instance)
 Recommend renaming to newpass for easier use on the command line
+
 Make it executable (chmod u+x newpass)
 
 ## Usage
