@@ -15,7 +15,7 @@ Generate a random password of a specified length
 
 positional arguments:
 
-    length        Desired password length. If not specified, default is 12
+    length        Desired password length. If not specified, default is 23
 
 optional arguments:
 
@@ -27,7 +27,7 @@ optional arguments:
 
 examples:
 
-    newpass - generates a 12 character alphanumeric password
+    newpass - generates a 23 character alphanumeric password
     newpass 20 - generates a 20 character alphanumeric password
     newpass -s 25 - generates a 25 character password that can include all symbols
     newpass -l 15 - generates a 15 character password that can include symbols !@#$%&*
