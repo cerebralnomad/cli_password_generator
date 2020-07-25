@@ -1,0 +1,7 @@
+README.md
+newpass.py
+setup.py
+newpass.egg-info/PKG-INFO
+newpass.egg-info/SOURCES.txt
+newpass.egg-info/dependency_links.txt
+newpass.egg-info/top_level.txt
