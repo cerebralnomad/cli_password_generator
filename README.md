@@ -49,5 +49,5 @@ The -l flag includes a limited set of symbols (!@#$%*&) for increased acceptance
 
 
 Use a unique password for every site and never reuse passwords.  
-Store them in a password manager such as KeePass, LastPass, or [Bitwarden](https://bitwarden.com/)
+Store them in a password manager such as KeePass, ~~LastPass~~, or [Bitwarden](https://bitwarden.com/)
 
